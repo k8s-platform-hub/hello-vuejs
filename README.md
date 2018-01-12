@@ -36,7 +36,7 @@ CMD ["npm", "run", "prod"]
 ```
 hasura cluster status
 ```
-* Browse to `/microservices/app/src` and edit the package.json file, under 'scripts'-> 'start' and 'build', update the cluster name to point to your cluster name. 
+* Browse to `/microservices/app/src` and edit the package.json file, under 'scripts'-> 'start' and 'build' keys, update the `CLUSTER_NAME` to point to your cluster name. 
 
 ## Deploy an existing Vue.js
 
