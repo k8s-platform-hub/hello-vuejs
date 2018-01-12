@@ -1,5 +1,6 @@
-description: Blank template for a Hasura project
+description: Boilerplate code for Vue.js that can be deployed to the cloud with a
+  git push (hosted on the Hasura Free Tier)
 keywords: base, getting-started
 media: {}
-name: base
+name: hello-vuejs
 platformVersion: v0.15.3
