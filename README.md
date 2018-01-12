@@ -50,11 +50,11 @@ Open Terminal and `cd` into the `/microservices/app/src/` directory, and run `np
 
 **Backend Architecture**
 
-![BaaS](https://github.com/hasura/hello-vuejs/blob/master/assets/baas.gif)
+![BaaS](https://raw.githubusercontent.com/hasura/hello-vuejs/master/assets/baas.gif)
 
 **Deployment - Behind the scenes:**
 
-![Deployment](https://github.com/hasura/hello-vuejs/blob/master/assets/baas.gif)
+![Deployment](https://raw.githubusercontent.com/hasura/hello-vuejs/master/assets/deploy.gif)
 
 ## Adding Database functionality
 
@@ -81,8 +81,8 @@ author_id | integer NOT NULL
 
 Alternatively, you can also view the schema for these tables on the api console by heading over to the tab named `data` as shown in the screenshots below.
 
-[data1]: https://github.com/hasura/hello-vuejs/blob/master/assets/data-1.png
-[data2]: https://github.com/hasura/hello-vuejs/blob/master/assets/data-2.png
+[data1]: https://raw.githubusercontent.com/hasura/hello-vuejs/master/assets/data-1.png
+[data2]: https://raw.githubusercontent.com/hasura/hello-vuejs/master/assets/data-2.png
 
 ![alt text][data1]
 ![alt text][data2]
@@ -113,7 +113,7 @@ To learn more about the data apis, head over to our [docs](https://docs.hasura-s
 
 ## Adding Authentication to the App
 
-![Auth UI](https://github.com/hasura/hello-vuejs/blob/master/assets/AuthUIKit.png)
+![Auth UI](https://raw.githubusercontent.com/hasura/hello-vuejs/master/assets/AuthUIKit.png)
 
 Follow the [Authorization docs](https://docs.hasura.io/0.15/manual/users/uikit.html) to add authentication UI to your app. 
 Add the following code under `app` section to your `routes.yaml`.
